@@ -1,0 +1,13 @@
+package com.akba.blotter_service;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BlotterServiceApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

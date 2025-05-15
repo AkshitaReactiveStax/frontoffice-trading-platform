@@ -1,0 +1,30 @@
+# Java
+*.class
+*.log
+*.jar
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# OS
+.DS_Store
+
+# Docker
+**/target/
+**/build/
+**/.dockerignore
+
+# Logs
+logs/
+*.log
+*.pid
+
+# Environment files
+.env
